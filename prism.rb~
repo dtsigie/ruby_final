@@ -236,7 +236,7 @@ class Prism
 
 end
 
-# Creates a prism with 15 sides
+# Create a prism with any number of sides
 
 p = Prism.new 15
 puts p.html
